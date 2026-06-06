@@ -137,26 +137,26 @@ Examples:
 ### Inventory Management
 
 <p align="center">
-  <img src="screenshots/inventory-screen.png" width="28%">
+  <img src="screenshots/inventory-screen.jpg" width="28%">
 </p>
 
 ### Sales Operations
 
 <p align="center">
-  <img src="screenshots/sales-screen.png" width="28%">
+  <img src="screenshots/sales-screen.jpg" width="28%">
 </p>
 
 ### Analytics Dashboard
 
 <p align="center">
-  <img src="screenshots/analytics-screen-1.png" width="28%">
-  <img src="screenshots/analytics-screen-2.png" width="28%">
+  <img src="screenshots/analytics-screen-1.jpg" width="28%">
+  <img src="screenshots/analytics-screen-2.jpg" width="28%">
 </p>
 
 ### Sales History
 
 <p align="center">
-  <img src="screenshots/history-screen.png" width="28%">
+  <img src="screenshots/history-screen.jpg" width="28%">
 </p>
 
 ---
