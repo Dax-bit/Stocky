@@ -8,7 +8,7 @@ The objective of these diagrams is to represent the business domain, identify th
 
 # Use Case Diagram
 
-![Use Case Diagram](use-case-diagram.png)
+![Use Case Diagram](stocky-use-case-diagram.png)
 
 The use case diagram provides a high-level view of the interactions between the store owner and the application.
 
