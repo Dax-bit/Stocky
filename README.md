@@ -174,7 +174,9 @@ The system was modeled using UML to represent its major functional domains.
 * Sales & Analytics Module
 * Sales Workflow Sequence Diagram
 
-Explore the full documentation in the UML folder.
+Detailed UML documentation can be found in:
+
+📁 [UML Documentation](uml/)
 
 ---
 
