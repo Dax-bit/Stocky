@@ -267,11 +267,8 @@ This design keeps the analytics layer independent from the mobile UI.
 
 # Sales Workflow Sequence Diagram
 
-![Sales Workflow Sequence Diagram](sales-workflow-sequence-diagram.png)
-
 The sequence diagram illustrates the complete lifecycle of a sales operation.
 
----
 
 <div align="center">
 
