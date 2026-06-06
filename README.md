@@ -195,9 +195,9 @@ Detailed UML documentation can be found in:
 
 ## Author
 
-Badr
+Ben Makhlouf Soltane "DAX"
 
-Computer Science Student
+Computer Science Graduate
 
 Areas of Interest:
 
